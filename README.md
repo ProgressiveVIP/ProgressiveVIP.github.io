@@ -1,2 +1,0 @@
-# ProgressiveVIP.github.io
-FirstProject
